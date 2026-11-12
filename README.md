@@ -1,5 +1,9 @@
  
-# 👋 Hey, I'm Jaggampudi Santhosh!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Jaggampudi+Santhosh+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;B.Tech+Student;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 
 ### 💻 Aspiring Full Stack Developer | B.Tech Student
 
