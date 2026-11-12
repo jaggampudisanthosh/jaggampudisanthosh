@@ -78,12 +78,19 @@ Thanks for visiting my profile! 🚀
 
 ## 📊 GitHub Statistics
 
-<p align="center">
- 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaggampudisanthosh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaggampudisanthosh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
+<p align="center">
+  <a href="https://github.com/jaggampudisanthosh">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/jaggampudisanthosh7/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/santhosh2008">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef" />
+  </a>
 </p>
+
 
 ## 🔥 Contribution Streak
 
