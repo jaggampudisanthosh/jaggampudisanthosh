@@ -90,6 +90,8 @@ Thanks for visiting my profile! 🚀
 
 
 
+
+
 ---
 
 ## 📊 GitHub Statistics
@@ -123,5 +125,18 @@ Thanks for visiting my profile! 🚀
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/jaggampudisanthosh" alt="GitHub Contribution Chart" width="100%" />
+</p>
+
+
+---
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:003B46,100:00E5FF&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile!</b>
+  <br/>
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 </p>
 
