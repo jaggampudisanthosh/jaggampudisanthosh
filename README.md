@@ -71,3 +71,21 @@ Currently, I'm strengthening my frontend development skills and preparing to exp
 ### ⭐ "Learn. Build. Improve. Repeat."
 
 Thanks for visiting my profile! 🚀
+
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaggampudisanthosh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggampudisanthosh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaggampudisanthosh&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
