@@ -28,7 +28,9 @@ Currently, I'm strengthening my frontend development skills and preparing to exp
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c" />
+ 
+<img src="https://skillicons.dev/icons?i=python,c,java" />
+
 </p>
 
 ### 🗄️ Database
