@@ -46,8 +46,22 @@ Currently, I'm strengthening my frontend development skills and preparing to exp
 
 ## 📂 My Projects
 
-- 🌐 [Personal Portfolio Website](https://github.com/jaggampudisanthosh/Personal-Portfolio-Website)
-- 🌦️ [Weather Data Analysis](https://github.com/jaggampudisanthosh/Weather-Data-Analysis)
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+A responsive personal portfolio website built to showcase my skills, projects, and developer journey.
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/jaggampudisanthosh/Personal-Portfolio-Website)
+
+---
+
+### 🌦️ Weather Data Analysis
+A project focused on exploring and analyzing weather-related data.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/jaggampudisanthosh/Weather-Data-Analysis)
 
 ## 🧩 Coding Profiles
 
@@ -98,5 +112,16 @@ Thanks for visiting my profile! 🚀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jaggampudisanthosh&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+
+
+---
+
+## 📈 GitHub Activity Graph
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/jaggampudisanthosh" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
