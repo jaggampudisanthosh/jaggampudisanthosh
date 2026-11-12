@@ -18,23 +18,29 @@ Currently, I'm strengthening my frontend development skills and preparing to exp
 - 🎯 Goal: Become a Professional Full Stack Developer
 - 🤝 Open to learning and collaboration
 
-## 🛠️ Technical Skills
+
+## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend Development
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 💻 Programming Languages
-- Python
-- C
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
 
 ### 🗄️ Database
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+</p>
 
-### 🔧 Tools
-- Git
-- GitHub
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ## 📂 My Projects
 
